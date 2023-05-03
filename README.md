@@ -3,7 +3,7 @@ Manticore Jailbreak is a Free and Open-Source Jailbreak utility developed by the
 Current compatibility: iOS 12.0 -> iOS 16.4 using cicuta_virosa exploit. The tool is a work-in-progress. Expect changes and expansions in the future.
 
 ## About us
-The Manticore Jailbreak is an independent jailbreaking tool for all devices, including A14 and below, running iOS 14.3 down to iOS 14.0.
+The Manticore Jailbreak is an independent jailbreaking tool for all devices, including A14 and below, running iOS 16.4 down to iOS 12.0.
 It's our goal to take back the "The most advanced jailbreak" title from unc0ver.
 
 [Official Manticore Discord Server](https://discord.com/invite/manticore)
