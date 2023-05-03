@@ -27,3 +27,4 @@ It's our goal to take back the "The most advanced jailbreak" title from unc0ver.
 * [Pattern-F](https://twitter.com/pattern_f_) (Exploit and Stable Primitives)
 * [XerusDesign](https://twitter.com/xerusdesign) (UI Design/Concept)
 * [ModernPwner](https://twitter.com/ModernPwner) (Original Exploit)
+* [espero_dev](https://github.com/frayray909090) (Remaking the exploit but making it also work on later versions probably 12.0 and adding the jailbreaking into it)
