@@ -17,7 +17,7 @@ It's our goal to take back the "The most advanced jailbreak" title from unc0ver.
 - [x] amfid bypass/patch
 - [x] amfid -> getting task port address 
 - [x] rootfs remount
-- [ ] `jailbreakd` implementation
+- [ ] `jailbreakd` implementation `only for 13.5 - 16.4`
 - [ ] bootstrap/package manager installation
 
 ### Credits
