@@ -6,7 +6,7 @@ Current compatibility: iOS 12.0 -> iOS 16.4 using cicuta_virosa exploit. The too
 The Manticore Jailbreak is an independent jailbreaking tool for all devices, including A14 and below, running iOS 16.4 down to iOS 12.0.
 It's our goal to take back the "The most advanced jailbreak" title from unc0ver.
 
-[Official Manticore Discord Server](https://discord.com/invite/manticore)
+//[Official Manticore Discord Server](https://discord.com/invite/manticore)
 
 ## Completion 
 - [x] Exploit Implementation (cicuta_virosa)
